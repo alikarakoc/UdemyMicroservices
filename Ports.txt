@@ -1,4 +1,4 @@
 Services
 -catalogAPI => 5011
 
-2. catalog > 10. ICourseServiveCourseService den devam.
+2. Catalog.API(Microservice) => 10. ICourseServiveCourseService
