@@ -1,4 +1,4 @@
 Services
 -catalogAPI => 5011
 
-3. IdentityServer(Microservice) => 7. Signup Endpoint
+3. IdentityServer(Microservice) => 11. Catalog.API (microservice) koruma altýna alma
